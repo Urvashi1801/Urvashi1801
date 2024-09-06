@@ -1,22 +1,35 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Urvashi Jain</h1>
+##
+<h1 align="center">Hi there 👋, I'm Urvashi Jain</h1>
 <h3 align="center">A Frontend developer and Web development.</h3>
+# 💫 About Me:
+🔭  I’m currently working on My Skills.<br>🤝  I’m looking for help with Exploring New Technologies.<br>🌱  I’m currently learning more about Full-Stack Development.<br>💬  Ask me about any tech-related stuff.<br>📫  How to reach me: Email - urvashijain425@gmail.com<br>
+👨‍💻 All of my projects are available at [https://github.com/Urvashi1801](https://github.com/Urvashi1801)
 
-- 🔭 I’m currently working on **Login Page**
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/urvashi-jain1801) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Urvashi1801](https://github.com/Urvashi1801)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
-- 💬 Ask me about **HTML,CSS**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Urvashi1801&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Urvashi1801&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Urvashi1801&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **urvashijain425@gmail**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Urvashi1801&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/urvashi-jain1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urvashi-jain1801" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Urvashi1801&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Urvashi1801&icon=2&color=3)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy Me a Coffee ) 
+
+  
 
