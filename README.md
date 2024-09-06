@@ -1,7 +1,9 @@
 ##
 <h1 align="center">Hi there 👋, I'm Urvashi Jain</h1>
 <h3 align="center">A Frontend developer and Web development.</h3>
-# 💫 About Me:
+💫 About Me:
+
+
 🔭  I’m currently working on My Skills.<br>🤝  I’m looking for help with Exploring New Technologies.<br>🌱  I’m currently learning more about Full-Stack Development.<br>💬  Ask me about any tech-related stuff.<br>📫  How to reach me: Email - urvashijain425@gmail.com<br>
 👨‍💻 All of my projects are available at [https://github.com/Urvashi1801](https://github.com/Urvashi1801)
 
@@ -20,6 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Urvashi1801&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
@@ -29,6 +32,7 @@
 [![](https://visitcount.itsvg.in/api?id=Urvashi1801&icon=2&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
+  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy Me a Coffee ) 
 
   
