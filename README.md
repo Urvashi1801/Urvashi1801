@@ -1,28 +1,66 @@
 ##
-![logo](https://github.com/Urvashi1801/Urvashi1801/blob/main/Banner.png)
-<h1 align="center"> "Hello"👋 <br> I'm Urvashi Jain</h1>
-<h3 align="center">A Frontend developer and Web development.</h3>
 
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg">
-- 🔭 I’m currently working on **My Skills.**
+![Banner](https://github.com/user-attachments/assets/e1d24c74-830c-4212-bcc2-4ca6fa8c2de5)
 
-- 🌱 I’m currently learning **Front-End Development**
 
-- 👯 I’m looking to collaborate on **Front-End Development projects.**
-
-- 🤝 I’m looking for help with **Exploring New Technologies.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Urvashi1801](https://github.com/Urvashi1801)
-
-- 💬 Ask me about **tech-related stuff.**
-
-- 📫 How to reach me **urvashijain425@gmail**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/urvashi-jain1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/urvashi-jain1801" height="30" width="40" /></a>
+<h1 align="center">Hello 👋, I'm Urvashi Jain</h1>
+<h3 align="center">A Front-End Developer from India</h3>
+<p align="center">Here’s a general summary:-      
+"I am a Front-End developer passionate about creating user-friendly and visually appealing web applications. With a strong foundation in HTML, CSS, and JavaScript, I aim to deliver seamless user experiences. I'm eager to collaborate on innovative projects, continuously learn new technologies, and contribute to impactful solutions."</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Urvashi1801&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 </p>
 
+<br>
+
+<img align="right" alt="Picture" width="350" 
+src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode," />
+    <img scr=""/>
+  </a>
+</p>
+
+<br/>
+
+
+
+
+# 📊 GitHub Stats:
+| ![](https://github-readme-stats.vercel.app/api?username=Urvashi1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> | ![](https://github-readme-streak-stats.herokuapp.com/?user=Urvashi1801&theme=radical&hide_border=false)<br/> |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Urvashi1801&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)   |  ![](https://github-contributor-stats.vercel.app/api?username=Urvashi1801&limit=5&theme=radical&combine_all_yearly_contributions=true) |
+
+
+### Activity
+
+![Urvashi1801's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urvashi1801&custom_title=Urvashi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=12de4c&line=12de4c&point=12de4c&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+### 🌐 Socials:
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/urvashi-jain1801)
+
+
+[![](https://visitcount.itsvg.in/api?id=Urvashi1801&icon=0&color=3)](https://visitcount.itsvg.in)
+
+## 💰 Buy ME a Coffee
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/urvashijain) 
+
+
+
 
